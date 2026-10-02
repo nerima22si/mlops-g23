@@ -1,0 +1,30 @@
+{
+  "merchant": "UD. SUMBER MAKMUR",
+  "tanggal": "18 Mei 2025",
+  "item": [
+    {
+      "nama_item": "Tepung Terigu Cap Kunci",
+      "jumlah": 10,
+      "satuan": "Karung",
+      "harga_satuan": 250000,
+      "subtotal": 2500000
+    },
+    {
+      "nama_item": "Gula Pasir Lokal",
+      "jumlah": 20,
+      "satuan": "Kg",
+      "harga_satuan": 16000,
+      "subtotal": 320000
+    },
+    {
+      "nama_item": "Minyak Goreng Kemasan 2L",
+      "jumlah": 24,
+      "satuan": "Botol",
+      "harga_satuan": 28000,
+      "subtotal": 672000
+    }
+  ],
+  "subtotal": 3492000,
+  "pajak": 174600,
+  "total": 3317400
+}

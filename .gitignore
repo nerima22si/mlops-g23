@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model / artifacts hasil training
+artifacts/
+
+# File gambar nota untuk pengujian lokal
+data/raw/
+
+# Environment / secrets
+.env
